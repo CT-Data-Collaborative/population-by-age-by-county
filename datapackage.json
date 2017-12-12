@@ -199,8 +199,6 @@
         "Year": ["2012-2016"],
         "Age Cohort": "Total",
         "Race/Ethnicity": "All",
-        "Gender": "Total",
-        "Measure Type": "Number", 
         "Variable": "Population"
       },
       "type": "object"
