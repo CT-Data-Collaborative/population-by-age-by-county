@@ -1,7 +1,8 @@
-population-by-age-by-county
-
-[![Build Status](https://travis-ci.org/CT-Data-Collaborative/population-by-age-by-county.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/population-by-age-by-county)
 Population by Age by County
+
+Population by Age by County reports the number and percentage of people living in an area, per age range, gender, and Race/Ethnicity.
+
+Data Source: U.S. Census ACS 5-Year Estimates Table B01001
 
 ## License MIT
 
@@ -81,7 +82,7 @@ The final extra property that should be present is an array of spot check tests 
       "field3": "field_name",
     },
     "expected_value": {
-      "value": value_as_a_numeric,
+      "value": "value_as_a_numeric",
       "type": "integer"
     }
   }

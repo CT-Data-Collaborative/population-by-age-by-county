@@ -2,9 +2,9 @@ import pytest
 
 ##################################################################
 #
-# Basic testing script for population-by-age-by-county
-# Created by Sasha Cuerda
-# On 3/22/2017
+# Basic testing script for Population by Age by County
+# Created by Jenna Daly
+# On 11/27/2017
 #
 ##################################################################
 
